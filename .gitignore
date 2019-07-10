@@ -8,3 +8,4 @@ models/
 story_confmat.pdf
 credentials.yml
 
+*.pth
