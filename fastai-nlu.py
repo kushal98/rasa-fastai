@@ -2,8 +2,8 @@ from rasa.nlu.components import Component
 from rasa.nlu import utils
 from rasa.nlu.model import Metadata
 
-import nltk
-from nltk.classify import NaiveBayesClassifier
+from fastai import *
+from fastai.text import *
 import os
 
 import typing
