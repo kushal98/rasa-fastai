@@ -9,3 +9,6 @@ story_confmat.pdf
 credentials.yml
 
 *.pth
+
+
+*/node_modules/*
