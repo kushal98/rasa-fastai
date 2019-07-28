@@ -610,14 +610,7 @@
             {
                 "text": "update-manager: upgrade to 15.04 rather than 16.04",
                 "intent": "Make Update",
-                "entities": [
-                    {
-                        "start": 33,
-                        "end": 47,
-                        "value": "15.04",
-                        "entity": "UbuntuVersion"
-                    }
-                ]
+                "entities": []
             },
             {
                 "text": "Upgrading 16.04 to 16.04.1",
@@ -927,14 +920,7 @@
             {
                 "text": "Upgrading From 11.04 (32bit) to 12.04 (64bit)",
                 "intent": "Make Update",
-                "entities": [
-                    {
-                        "start": 15,
-                        "end": 34,
-                        "value": "11.04 (32bit)",
-                        "entity": "UbuntuVersion"
-                    }
-                ]
+                "entities": []
             },
             {
                 "text": "How is rm command different from the delete button?",
@@ -1139,14 +1125,7 @@
             {
                 "text": "Install printer Lexmark X4690 (ubuntu 12.04)",
                 "intent": "Setup Printer",
-                "entities": [
-                    {
-                        "start": 16,
-                        "end": 29,
-                        "value": "Lexmark X4690",
-                        "entity": "Printer"
-                    }
-                ]
+                "entities": []
             },
             {
                 "text": "How to record my screen?",

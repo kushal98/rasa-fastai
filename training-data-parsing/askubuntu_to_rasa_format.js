@@ -48,8 +48,9 @@ examples.forEach(example => {
             })
         } catch(err) {
             // the ubuntu start and stop counting is odd. not clear what
-            // the pattern is with 3 examples (so lose 3 entities)
+            // the pattern is with 3 examples (so remove any entities with those odd patterns)
             console.log("err!!", err)
+            rasafied_entities.length = 0;
             errorCount++
             return
         }
