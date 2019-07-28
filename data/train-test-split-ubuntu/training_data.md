@@ -1,0 +1,136 @@
+## intent:Make Update
+- Upgrade from [9.10](UbuntuVersion) to [11.04](UbuntuVersion)
+- Upgrade to [12.04 64 bit](UbuntuVersion)
+- Update [11.04](UbuntuVersion) to [](UbuntuVersion:12.04) to 12.04 with LiveCD
+- Do I need to backup my [12.04](UbuntuVersion)[12.04 system to upgrade to 12.04.1?](UbuntuVersion:12.04.1)
+- Ho do I update to [13.04](UbuntuVersion) from the beta?
+- Force upgrade [12.10](UbuntuVersion) to [13.04](UbuntuVersion)
+- How to upgrade from [16.04 LTS](UbuntuVersion)[16.04 LTS](UbuntuVersion:16.04.1 LTS) to 16.04.1 LTS
+- How do I upgrade to the release version of [16.04](UbuntuVersion) if I am running Beta?
+- Upgrading from ubuntu [12.04](UbuntuVersion) to [](UbuntuVersion:13.10)4 to 13.10
+- Is it necessary to upgrade to [15.10](UbuntuVersion) from [14.04?](UbuntuVersion:14.04)
+- Doubts regarding the [15.04](UbuntuVersion) upgrade (is it inevitable and unavoidable?)
+- Problems upgrading Ubuntu [12.10](UbuntuVersion) to [13.04](UbuntuVersion)
+- Upgrading [16.04](UbuntuVersion)[](UbuntuVersion:16.04.1)Upgrading 16.04 to 16.04.1
+- Upgrading from [10.04](UbuntuVersion) to [](UbuntuVersion:11.10).04 to 11.10
+- How to upgrade from [12.10](UbuntuVersion) to 14[](UbuntuVersion:14.04).04
+- How to upgrade from Ubuntu [10](UbuntuVersion:10.10).10 to [11.04?](UbuntuVersion:11.04)
+- Do I need to reinstall everything to upgrade from [13.10](UbuntuVersion) to [14.10?](UbuntuVersion:14.10)
+- Upgrading From 11.04 (32bit) to 12.04 (64bit)
+- Upgrade [12.04](UbuntuVersion)[12.0](UbuntuVersion:12.10)4 to 12.10 using startup disk
+- Upgrade from [12.04](UbuntuVersion)[12.0](UbuntuVersion:12.10)4 to 12.10 without losing files?
+- Upgrading from [12.04](UbuntuVersion) to [](UbuntuVersion:13.10)4 to 13.10 ( Unanswered questions )
+- Is it worth upgrading from [12.04 LTS](UbuntuVersion) to [](UbuntuVersion:13.04) LTS to 13.04
+- Upgrading from Ubuntu [14](UbuntuVersion:14.04).04 to [](UbuntuVersion:15.04).04 to 15.04
+- update-manager: upgrade to 15.04 rather than 16.04
+- Using [12.04](UbuntuVersion) can I compile packages with gcc for [10.04?](UbuntuVersion:10.04)
+- upgrading to Ubuntu [13.10](UbuntuVersion)[13.10 from Ubuntu 13.04](UbuntuVersion:13.04)
+- how to upgrade from ubuntu [15.04](UbuntuVersion)[15.04 to 15.10?](UbuntuVersion:15.10)
+- How to upgrade Ubuntu [](UbuntuVersion:14.04.1)How to upgrade Ubuntu [14.04.1 to 14.04.2?](UbuntuVersion:14.04.2)
+- Upgrading from [11.10](UbuntuVersion) to [12.04](UbuntuVersion)
+- How to Upgrade from [11.10](UbuntuVersion) to [12.04](UbuntuVersion) when you've got a problem?
+- How can i upgrade to Ubuntu [14](UbuntuVersion:14.04)[14.04 final from 14.04 Beta](UbuntuVersion:14.04 Beta) correctly?
+- Ubuntu upgrade failed
+- Upgrading from [10](UbuntuVersion:10.10).10 to [11.04](UbuntuVersion) how much space is needed?
+- Cannot upgrade from [12.04LTS](UbuntuVersion) to [](UbuntuVersion:14.04)LTS to 14.04
+- How to partially upgrade Ubuntu [11.10](UbuntuVersion)[11.10 from Ubuntu 11.04?](UbuntuVersion:11.04)
+- Why did the upgrade from [11.10](UbuntuVersion) to [12.04](UbuntuVersion) ruin my system?
+- Problem upgrading Ubuntu [9.10](UbuntuVersion:Ubuntu 9.10)
+
+## intent:None
+- Torrent client for the command-line?
+- How do I show grub when resuming from suspend?
+- Is there a Document scanning and archiving software?
+- How can I highlight or annotate PDFs?
+- How is rm command different from the delete button?
+- How to record my screen?
+
+## intent:Setup Printer
+- How can I install a [Pantum 2502W](Printer) laser printer on Ubuntu
+- How do I setup my [HP C4140](Printer) printer wirelessly?
+- Install [Canon MP560](Printer) Ubuntu [15.04](UbuntuVersion)
+- How To Install [Canon LBP2900B](Printer) printer in [14.04 LTS](UbuntuVersion) ? I tried the method for LBP2900 but it didnt work
+- How to install a [Brother MFC-5890CN network printer?](Printer:Brother MFC-5890CN)
+- How to setup HP printer/scanner on ubuntu?
+- Installing [EPSON L355](Printer) on Ubuntu [14](UbuntuVersion:14.04).04
+- Installing [Epson XP-424 wireless printer](Printer:Epson XP-424)
+- How to setup wireless printing from a printer connected via usb on Ubuntu Server [12.10?](UbuntuVersion:12.10)
+- Cannot install printer driver [epson l210](Printer)
+- No matter what I do Ubuntu [15.04](UbuntuVersion) does not recognize [HP LaserJet 1020](Printer)
+- How do I install the [HP F4280](Printer) printer?
+- How do I install [Dell 2150cdn](Printer) printer
+- How Do I Install [Canon MF8000C](Printer) Printer in Ubuntu [15.10?](UbuntuVersion:15.10)
+- Cannot setup [HP All in one DJ3630](Printer)
+- Install printer Lexmark X4690 (ubuntu 12.04)
+- How to install a [Lexmark z600](Printer) series printer?
+- How do I install drivers for a [Konica Minolta 200?](Printer:Konica Minolta 200)
+
+## intent:Shutdown Computer
+- shutdown in specific way if no-one uses computer
+- How can I make shutdown not require admin password?
+- How do I shut down without the confirmation prompt?
+- My system doesn't go shutdown
+- what is the right way to shutdown ubuntu using the command line?
+- Ubuntu Shut down app
+- No action when shutdown pressed
+- How to shutdown the computer after Xsession ends?
+- What does my computer do when I click 'Shut Down'?
+- Are there any Keyboard Shortcuts to Shutdown?
+- How to Shut down Ubuntu by using keyboard?
+- How to shutdown computer when users are logged on?
+- How to troubleshoot slow shutdown?
+- Shutdown problem in [Ubuntu 16.04](UbuntuVersion)
+- Hotkey to shut down from login screen?
+- What graphical utility can I use for Ubuntu auto shutdown?
+- How do I fix a shutdown problem?
+- What is the command to open the shutdown dialog?
+- How can one shutdown a PC using the keyboard?
+- What is the proper terminal-way to shutdown?
+- shutdown 5:30pm every day
+
+## intent:Software Recommendation
+- What's the best Mind Mapping Software?
+- Software to read a QR code?
+- Is there software that can view .dwg files?
+- Can you recommend a password generator?
+- Is there a software utility to adjust screen gamma/brightness/contrast?
+- Is there a tool like wifi analyzer for ubuntu?
+- Is there any recovery software available for ext4?
+- Removing Recently used items in 12[.04](UbuntuVersion:12.04)
+- Is there a lightweight tool to crop images quickly?
+- Is there LAN topology mapping software available in Ubuntu?
+- UPNP / DLNA (client) player recommendations?
+- What are some good ASCII art generators?
+- PDF to word conversion software?
+- What Is The Best HDR Software?
+- Is there an application for reading mobi files?
+- What are some good GUI binary viewers/editors?
+- Which programs can I use to edit PDF files?
+- What [IRC](SoftwareName) clients are available?
+- Any command line calculator for Ubuntu?
+- What blog editor software are available?
+- What is a good [MongoDB](SoftwareName) GUI client?
+- Is there an SSH connection manager?
+- Is there any program for fuzzy string matching which provides a match score?
+- Extracting embedded images from a PDF
+- What scientific plotting software is available?
+- Any app that tells me to take regular breaks from working?
+- What tools do you use to monitor a web server?
+- Password Management Applications?
+- Please recommend a hex editor for shell
+- What's the best Wireframing tool?
+- What software can I use to view epub documents?
+- Tool for recovering deleted data from a flash drive
+- Is there a Linux file manager with a proper drop-down tree view? (like finder in OS X)
+- Which application do you recommend for watching TV (DVB)?
+- A light alternative to gnome-system-monitor?
+- Is there a project management software for Ubuntu like Microsoft [Project?](SoftwareName:Project)
+- Applications to replace [iTunes](SoftwareName) for iPod synchronization?
+- Wubi Device /dev/loop0 full. How to get more space?
+- On really old Ubuntu [6](UbuntuVersion:6.06).06 - How to upgrade
+- Is it recommended to upgrade to [Lubuntu 15.04?](UbuntuVersion:Lubuntu 15.04)
+- What to use to quickly cut Audio/Video
+- What developer text editors are available for Ubuntu?
+- Is there any software that will do face recognition in photos?
+- What's a simple "colour picker" app for GNOME?
+- Are there any hardware diagnostic tools?

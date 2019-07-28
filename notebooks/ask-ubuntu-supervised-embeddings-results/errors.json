@@ -1,0 +1,26 @@
+[
+  {
+    "text": "Security enhancements prevent mounting /dev/sdb1",
+    "intent": "None",
+    "intent_prediction": {
+      "name": "Software Recommendation",
+      "confidence": 0.9356160759925842
+    }
+  },
+  {
+    "text": "How to provide user permission to read and write on /dev/sdax? What is the syntax?",
+    "intent": "None",
+    "intent_prediction": {
+      "name": "Software Recommendation",
+      "confidence": 0.7736248970031738
+    }
+  },
+  {
+    "text": "In Unity how do I see the details of a given launcher?",
+    "intent": "Software Recommendation",
+    "intent_prediction": {
+      "name": "Shutdown Computer",
+      "confidence": 0.6340992450714111
+    }
+  }
+]
