@@ -1,0 +1,18 @@
+[
+  {
+    "text": "Security enhancements prevent mounting /dev/sdb1",
+    "intent": "None",
+    "intent_prediction": {
+      "name": "Software Recommendation",
+      "confidence": 0.35914137959480286
+    }
+  },
+  {
+    "text": "How to provide user permission to read and write on /dev/sdax? What is the syntax?",
+    "intent": "None",
+    "intent_prediction": {
+      "name": "Software Recommendation",
+      "confidence": 0.3018698990345001
+    }
+  }
+]

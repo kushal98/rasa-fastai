@@ -1,0 +1,371 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "intent": "Software Recommendation",
+        "text": "What new games are available for Ubuntu in 2011?"
+      },
+      {
+        "intent": "Software Recommendation",
+        "text": "What are some good PHP editors?"
+      },
+      {
+        "intent": "Software Recommendation",
+        "text": "Recommendation for Regex editor?"
+      },
+      {
+        "intent": "Software Recommendation",
+        "text": "Which PDF Viewer would you recommend?"
+      },
+      {
+        "intent": "Software Recommendation",
+        "entities": [
+          {
+            "start": 3,
+            "end": 8,
+            "value": "Unity",
+            "entity": "SoftwareName"
+          }
+        ],
+        "text": "In Unity how do I see the details of a given launcher?"
+      },
+      {
+        "intent": "Software Recommendation",
+        "text": "Can you recommend a good modern GUI download manager (wget wrapper?)"
+      },
+      {
+        "intent": "Software Recommendation",
+        "text": "What IDEs are available for Ubuntu?"
+      },
+      {
+        "intent": "Software Recommendation",
+        "entities": [
+          {
+            "start": 34,
+            "end": 38,
+            "value": "Word",
+            "entity": "SoftwareName"
+          }
+        ],
+        "text": "What do you use to edit Microsoft Word documents (docx)?"
+      },
+      {
+        "intent": "Software Recommendation",
+        "entities": [
+          {
+            "start": 0,
+            "end": 5,
+            "value": "MySQL",
+            "entity": "SoftwareName"
+          }
+        ],
+        "text": "MySQL GUI Tools"
+      },
+      {
+        "intent": "Software Recommendation",
+        "text": "Software to create a video slideshow?"
+      },
+      {
+        "intent": "Software Recommendation",
+        "text": "Which is the best PDF metadata viewer for Ubuntu?"
+      },
+      {
+        "intent": "Software Recommendation",
+        "text": "What screenshot tools are available?"
+      },
+      {
+        "intent": "None",
+        "text": "Security enhancements prevent mounting /dev/sdb1"
+      },
+      {
+        "intent": "None",
+        "text": "How to provide user permission to read and write on /dev/sdax? What is the syntax?"
+      },
+      {
+        "intent": "Shutdown Computer",
+        "text": "Keyboard shortcut to shutdown?"
+      },
+      {
+        "intent": "Shutdown Computer",
+        "text": "How can I enable shutdown verbosity?"
+      },
+      {
+        "intent": "Shutdown Computer",
+        "text": "Shutdown after a certain time"
+      },
+      {
+        "intent": "Shutdown Computer",
+        "text": "How can I automatically shutdown the system after a specific time?"
+      },
+      {
+        "intent": "Shutdown Computer",
+        "text": "shut down without extra question"
+      },
+      {
+        "intent": "Shutdown Computer",
+        "text": "How can I shutdown the computer when a certain process ends?"
+      },
+      {
+        "intent": "Make Update",
+        "entities": [
+          {
+            "start": 22,
+            "end": 26,
+            "value": "9.10",
+            "entity": "UbuntuVersion"
+          },
+          {
+            "start": 30,
+            "end": 26,
+            "value": "12.10",
+            "entity": "UbuntuVersion"
+          }
+        ],
+        "text": "How to upgrade Ubuntu 9.10 to 12.10 via terminal?"
+      },
+      {
+        "intent": "Make Update",
+        "entities": [
+          {
+            "start": 22,
+            "end": 27,
+            "value": "12.04",
+            "entity": "UbuntuVersion"
+          },
+          {
+            "start": 31,
+            "end": 27,
+            "value": "14.04",
+            "entity": "UbuntuVersion"
+          }
+        ],
+        "text": "How to upgrade Ubuntu 12.04 to 14.04 if I have dual boot with windows 7?"
+      },
+      {
+        "intent": "Make Update",
+        "entities": [
+          {
+            "start": 8,
+            "end": 10,
+            "value": "10.10",
+            "entity": "UbuntuVersion"
+          },
+          {
+            "start": 17,
+            "end": 22,
+            "value": "11.04",
+            "entity": "UbuntuVersion"
+          }
+        ],
+        "text": "Upgrade 10.10 to 11.04"
+      },
+      {
+        "intent": "Make Update",
+        "entities": [
+          {
+            "start": 20,
+            "end": 29,
+            "value": "14.04 LTS",
+            "entity": "UbuntuVersion"
+          },
+          {
+            "start": 33,
+            "end": 24,
+            "value": "15.10",
+            "entity": "UbuntuVersion"
+          },
+          {
+            "start": 42,
+            "end": 22,
+            "value": "16.04",
+            "entity": "UbuntuVersion"
+          }
+        ],
+        "text": "How to upgrade from 14.04 LTS or 15.10 to 16.04 from terminal"
+      },
+      {
+        "intent": "Make Update",
+        "entities": [
+          {
+            "start": 28,
+            "end": 33,
+            "value": "13.10",
+            "entity": "UbuntuVersion"
+          },
+          {
+            "start": 37,
+            "end": 39,
+            "value": "14.04",
+            "entity": "UbuntuVersion"
+          }
+        ],
+        "text": "Is any offline upgrade from 13.10 to 14.04 possible?"
+      },
+      {
+        "intent": "Make Update",
+        "entities": [
+          {
+            "start": 23,
+            "end": 28,
+            "value": "10.04",
+            "entity": "UbuntuVersion"
+          },
+          {
+            "start": 43,
+            "end": 49,
+            "value": "12.04",
+            "entity": "UbuntuVersion"
+          }
+        ],
+        "text": "Do I need to uninstall 10.04 to upgrade to 12.04?"
+      },
+      {
+        "intent": "Make Update",
+        "entities": [
+          {
+            "start": 24,
+            "end": 28,
+            "value": "9.10",
+            "entity": "UbuntuVersion"
+          },
+          {
+            "start": 26,
+            "end": 37,
+            "value": "10.04",
+            "entity": "UbuntuVersion"
+          }
+        ],
+        "text": "Upgrading Ubuntu Server 9.10 to 10.04"
+      },
+      {
+        "intent": "Make Update",
+        "entities": [
+          {
+            "start": 35,
+            "end": 44,
+            "value": "12.04 LTS",
+            "entity": "UbuntuVersion"
+          },
+          {
+            "start": 48,
+            "end": 44,
+            "value": "14.04 LTS",
+            "entity": "UbuntuVersion"
+          }
+        ],
+        "text": "Is there an upgrade procedure from 12.04 LTS to 14.04 LTS"
+      },
+      {
+        "intent": "Make Update",
+        "entities": [
+          {
+            "start": 24,
+            "end": 29,
+            "value": "12.04",
+            "entity": "UbuntuVersion"
+          },
+          {
+            "start": 33,
+            "end": 29,
+            "value": "14.04",
+            "entity": "UbuntuVersion"
+          }
+        ],
+        "text": "Problems upgrading from 12.04 to 14.04"
+      },
+      {
+        "intent": "Make Update",
+        "entities": [
+          {
+            "start": 16,
+            "end": 29,
+            "value": "Xubuntu 11.10",
+            "entity": "UbuntuVersion"
+          },
+          {
+            "start": 16,
+            "end": 51,
+            "value": "Xubuntu 12.04 LTS?",
+            "entity": "UbuntuVersion"
+          }
+        ],
+        "text": "How do I update Xubuntu 11.10 to Xubuntu 12.04 LTS?"
+      },
+      {
+        "intent": "Setup Printer",
+        "entities": [
+          {
+            "start": 15,
+            "end": 27,
+            "value": "Canon LBP330",
+            "entity": "Printer"
+          },
+          {
+            "start": 31,
+            "end": 40,
+            "value": "Lts 16.04",
+            "entity": "UbuntuVersion"
+          }
+        ],
+        "text": "How to install Canon LBP330 in Lts 16.04"
+      },
+      {
+        "intent": "Setup Printer",
+        "entities": [
+          {
+            "start": 33,
+            "end": 51,
+            "value": "Panasonic MB1900CX",
+            "entity": "Printer"
+          }
+        ],
+        "text": "How do I install drivers for the Panasonic MB1900CX All-in-One Printer/Scanner?"
+      },
+      {
+        "intent": "Setup Printer",
+        "entities": [
+          {
+            "start": 15,
+            "end": 47,
+            "value": "Brother DCP-8110DN",
+            "entity": "Printer"
+          }
+        ],
+        "text": "How to Install Brother DCP-8110DN Laser Printer on Ubuntu?"
+      },
+      {
+        "intent": "Setup Printer",
+        "entities": [
+          {
+            "start": 39,
+            "end": 45,
+            "value": "15.10",
+            "entity": "UbuntuVersion"
+          }
+        ],
+        "text": "How to add a network printer on Ubuntu 15.10?"
+      },
+      {
+        "intent": "Setup Printer",
+        "entities": [
+          {
+            "start": 17,
+            "end": 31,
+            "value": "Canon MF8040Cn",
+            "entity": "Printer"
+          },
+          {
+            "start": 50,
+            "end": 28,
+            "value": "12.04",
+            "entity": "UbuntuVersion"
+          }
+        ],
+        "text": "How to Install a Canon MF8040Cn Printer on Ubuntu 12.04"
+      }
+    ],
+    "regex_features": [],
+    "lookup_tables": [],
+    "entity_synonyms": []
+  }
+}
