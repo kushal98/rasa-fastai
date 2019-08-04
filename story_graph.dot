@@ -1,0 +1,23 @@
+digraph  {
+0 [class="start active", fillcolor=green, fontsize=12, label=START, style=filled];
+1 [class="", fontsize=12, label=utter_greet];
+4 [class="", fontsize=12, label=utter_sorry_cannot_help];
+"-6" [class=ellipsis, label="..."];
+5 [class="", fontsize=12, label=utter_goodbye];
+"-7" [class=ellipsis, label="..."];
+"-9" [class=ellipsis, label="..."];
+8 [class="intent dashed active", label="  ?  ", shape=rect];
+9 [class=intent, fillcolor=lightblue, label=hola, shape=rect, style=filled];
+10 [class=intent, fillcolor=lightblue, label="\/human_handoff", shape=rect, style=filled];
+11 [class=intent, fillcolor=lightblue, label="\/goodbye", shape=rect, style=filled];
+0 -> 8  [class=active, key=NONE, label=""];
+0 -> 9  [class="", key=0];
+0 -> 10  [class="", key=0];
+0 -> 11  [class="", key=0];
+1 -> "-9"  [class="", key=NONE, label=""];
+4 -> "-6"  [class="", key=NONE, label=""];
+5 -> "-7"  [class="", key=NONE, label=""];
+9 -> 1  [class="", key=0];
+10 -> 4  [class="", key=0];
+11 -> 5  [class="", key=0];
+}

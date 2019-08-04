@@ -5,6 +5,7 @@
 *.pyc
 *.log
 models/
+ptsd_models/
 story_confmat.pdf
 credentials.yml
 
