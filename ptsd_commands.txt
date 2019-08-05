@@ -1,5 +1,5 @@
 
-rasa train --data ./ptsd-data \
+rasa train --data ./ptsd_data \
 --config ptsd_config.yml \
 --domain ptsd_domain.yml \
 --out ptsd_models \
@@ -8,13 +8,13 @@ rasa train --data ./ptsd-data \
 
 rasa interactive \
 --model ptsd_models \
---data ./ptsd-data \
+--data ./ptsd_data \
 --config ptsd_config.yml \
 --domain ptsd_domain.yml \
 --out ptsd_models
 
 save examples to:
-ptsd-data/ptsd-core/stories.md
-ptsd-data/ptsd-nlu-training-data/nlu.md
+ptsd_data/ptsd-core/stories.md
+ptsd_data/ptsd-nlu-training-data/nlu.md
 
 rasa shell --model ptsd_models/
